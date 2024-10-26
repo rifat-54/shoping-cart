@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "price": 49,
+      "img": "https://i.ibb.co/QHr0bZY/ravi-sharma-Rn-W1ta-VZqm8-unsplash.jpg",
+      "description": "A powerful smartphone with a 6.5-inch display and long battery life.",
+      "title": "XPhone Pro Max",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "price": 35,
+      "img": "https://i.ibb.co/D7sqkPp/georgia-de-lotz-Ebb8fe-NZt-M-unsplash.jpg",
+      "description": "A high-performance laptop with a sleek design and 16GB RAM.",
+      "title": "UltraBook X",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "price": 25,
+      "img": "https://i.ibb.co/6g4wCVy/nadine-e-1omjb-HRi6-Zw-unsplash.jpg",
+      "description": "A smart fitness tracker with heart rate monitoring and GPS.",
+      "title": "FitBand Pro",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "price": 45,
+      "img": "https://i.ibb.co/WVhXD7W/tyler-lastovich-7-FDIUNv-Kk-IU-unsplash.jpg",
+      "description": "A noise-cancelling wireless headphone with premium sound quality.",
+      "title": "SoundBeat Wireless",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "price": 50,
+      "img": "https://i.ibb.co/tCYGY3h/priscilla-du-preez-BOUdudm-Ank4-unsplash.jpg",
+      "description": "A gaming desktop with a powerful GPU and liquid cooling system.",
+      "title": "Gamer Pro Rig",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "price": 30,
+      "img": "https://i.ibb.co/MBdhQ7s/benjaminrobyn-jespersen-Ai9-QJa-Zf-Mc-unsplash.jpg",
+      "description": "A smart home speaker with voice assistant and 360-degree audio.",
+      "title": "SmartHome Echo",
+      "isFeature": false
+    }
+  ]
+  
